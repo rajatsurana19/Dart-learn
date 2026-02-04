@@ -4,7 +4,7 @@ void main(){
     var a = "Hello";
     String name = "Hi";
 
-    print(a+name);
+    print("String: $name $a");
     //Integer
     var x = 41;
     int y = 24;
